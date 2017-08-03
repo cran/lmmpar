@@ -1,0 +1,9 @@
+c891d3effac8fc7a25609806ac966d70 *DESCRIPTION
+db4194d8fbfb9fd9c8a44a265790321e *LICENSE
+f01aeb7519b6333bd4690edd68ac715b *NAMESPACE
+c20fc9bd3217c4fb9441df194accc206 *NEWS.md
+b29faaf58e428a23a49b99448f394afe *R/lmm.R
+2077493ba3bcde5f0242e6eaa7362149 *README.md
+2afb5ffb36d17708d80167c069b18e8b *man/lmmpar.Rd
+437f725a0b25ab59099280ea50e0ede4 *tests/testthat.R
+804e4025a3426a30705f603e689fc5b6 *tests/testthat/test-single_example.R
